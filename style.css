@@ -48,4 +48,5 @@ ul{
     padding: 25px;
     box-sizing: border-box;
     list-style: none;
+    flex-wrap: wrap;
 }
